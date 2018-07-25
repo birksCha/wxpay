@@ -9,7 +9,7 @@
             "email": "3238351902@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "require": {
 		"php": ">=7.0"
 	},
