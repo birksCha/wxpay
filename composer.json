@@ -14,7 +14,9 @@
 		"php": ">=7.0"
 	},
 	"autoload": {
-		"birksCha\\WxPay\\": "src/WxPay/Native",
-		"birksCha\\Lib\\": "src/WxPay/Lib",
+		"psr-4": {
+			"birksCha\\WxPay\\": "src/WxPay/Native",
+			"birksCha\\Lib\\": "src/WxPay/Lib"
+		}
 	}
 }
