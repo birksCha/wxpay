@@ -9,7 +9,6 @@
             "email": "3238351902@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
 		"php": ">=5.4"
 	},
@@ -18,5 +17,6 @@
 			"birksCha\\WxPay\\": "src/WxPay/Native",
 			"birksCha\\Lib\\": "src/WxPay/Lib"
 		}
-	}
+	},
+    "minimum-stability": "dev"
 }
