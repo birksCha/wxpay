@@ -1,5 +1,5 @@
 {
-    "name": "birkscha/wxpay",
+    "name": "birksCha/wxpay",
     "description": "WeChat scavenging payment for Laravel.",
     "type": "library",
     "license": "MIT",
