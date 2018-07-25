@@ -1,0 +1,20 @@
+{
+    "name": "birkscha/wxpay",
+    "description": "WeChat scavenging payment for Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chi ZH",
+            "email": "3238351902@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=7.0"
+	},
+	"autoload": {
+		"birksCha\\WxPay\\": "src/WxPay/Native",
+		"birksCha\\Lib\\": "src/WxPay/Lib",
+	}
+}
