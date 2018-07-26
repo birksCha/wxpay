@@ -18,5 +18,5 @@
 			"birksCha\\Lib\\": "src/WxPay/Lib"
 		}
 	},
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
