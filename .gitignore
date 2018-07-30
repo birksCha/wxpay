@@ -2,3 +2,7 @@
 /vendor/
 /LICENSE
 /composer.lock
+/cert/
+/test/laravel/logs/
+/test/config.php
+/.idea/

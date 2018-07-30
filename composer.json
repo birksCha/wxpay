@@ -14,8 +14,8 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"birksCha\\WxPay\\": "src/WxPay/Native",
-			"birksCha\\Lib\\": "src/WxPay/Lib"
+          "birksCha\\Lib\\": "src/WxPay/Lib",
+          "birksCha\\WxPay\\": "src/WxPay/Native"
 		}
 	},
     "minimum-stability": "dev"
